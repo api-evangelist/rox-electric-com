@@ -1,0 +1,22 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/rox-electric-com/integrations
+- https://zapier.com/apps/rox-electric/integrations
+- https://zapier.com/apps/rox/integrations
+- https://n8n.io/integrations/rox-electric-com/
+- https://n8n.io/integrations/rox-electric/
+- https://composio.dev/toolkits/rox-electric-com
+- https://monid.ai/tools/rox-electric-com
+checked:
+- https://composio.dev/toolkits/rox-electric-com
+- https://monid.ai/tools/rox-electric-com
+- https://n8n.io/integrations/rox-electric-com/
+- https://n8n.io/integrations/rox-electric/
+- https://zapier.com/apps/rox-electric-com/integrations
+- https://zapier.com/apps/rox-electric/integrations
+- https://zapier.com/apps/rox/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
